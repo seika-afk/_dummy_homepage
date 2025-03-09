@@ -174,7 +174,7 @@ st.markdown("""
         <ul className="skills">
       <li>Machine Learning</li>
       <li>Web Dev</li>
-      <li>Dsa</li>
+
       </ul>
       </div>
       <div class="bottom">
